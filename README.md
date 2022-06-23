@@ -36,10 +36,5 @@ oh, and i'm also a software engineering student
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/Lucas_Silva#1810" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/lucas-silva-021a84231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-
+<p align="left"> <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  
+ <a href="https://www.linkedin.com/in/lucas-silva-021a84231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
