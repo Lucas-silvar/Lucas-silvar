@@ -12,9 +12,9 @@ oh, and i'm also a software engineering student
 
 * 🌍  I'm based in Minas Gerais,Brazil
 * ✉️  You can contact me at [lucasarr01@outlook.com]()
-* 🚀  I'm currently working on ...
 * 🧠  I'm learning Advanced Javascript. Java and Python programming language
 * ⚡  I love sports and my favorite is football
+* <!--* 🚀  I'm currently working on ... -->
 
 
 ### Skills
@@ -36,5 +36,5 @@ oh, and i'm also a software engineering student
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/channels/@me" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  
+<p align="left"> <a href="https://discord.com/Lucas_Silva#1810" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  
  <a href="https://www.linkedin.com/in/lucas-silva-021a84231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
