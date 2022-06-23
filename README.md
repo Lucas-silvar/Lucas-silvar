@@ -14,7 +14,7 @@ oh, and i'm also a software engineering student
 * ✉️  You can contact me at [lucasarr01@outlook.com]()
 * 🧠  I'm learning Advanced Javascript. Java and Python programming language
 * ⚡  I love sports and my favorite is football
-* <!--* 🚀  I'm currently working on ... -->
+ <!--* 🚀  I'm currently working on ... -->
 
 
 ### Skills
