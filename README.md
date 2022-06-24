@@ -5,7 +5,7 @@
  FrontEnd Developer
 -----------------------------
 
-I'm a 21-year-old developer and I started programming at 20. I love coding, challenging myself and figuring out how to solve problems using technology. My main focus is frontEnd development, making applications that impact users' lives.
+I'm a 21-year-old developer and I started programming at 19. I love coding, challenging myself and figuring out how to solve problems using technology. My main focus is frontEnd development, making applications that impact users' lives.
 oh, and i'm also a software engineering student
 
 
