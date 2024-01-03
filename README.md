@@ -5,12 +5,12 @@
  FrontEnd Developer
 -----------------------------
 
-I'm a 22-year-old developer and I started programming at 19. I love coding, challenging myself and figuring out how to solve problems using technology. My main focus is frontEnd development, making applications that impact users' lives.
+I'm a 23-year-old developer and I started programming at 19. I love coding, challenging myself and figuring out how to solve problems using technology. My main focus is frontEnd development, making applications that impact users' lives.
 oh, and i'm also a software engineering student
 
 
 
-* 🌍  I'm based in Minas Gerais,Brazil
+* 🌍  I'm based in Paraná,Brazil
 * ✉️  You can contact me at [lucasarr01@outlook.com]()
 * 🧠  I'm learning Advanced Javascript. Java and Python programming language
 * ⚡  I love sports and my favorite is football
