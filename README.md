@@ -2,18 +2,16 @@
 
 ==========================
 
- FrontEnd Developer
+ Developer & Engineering Student
 -----------------------------
 
-I'm a 23-year-old developer and I started programming at 19. I love coding, challenging myself and figuring out how to solve problems using technology. My main focus is frontEnd development, making applications that impact users' lives.
-oh, and i'm also a software engineering student and computer engineering
+I'm 23 years old and I'm a student of Software Engineering and Computer Engineering at the Federal Technological University of Paraná. My journey into programming began at the age of 19, igniting a passion for coding, problem-solving, and leveraging technology for innovative solutions. With a primary focus on software development, I strive to create applications that make a meaningful impact
 
 
-
-* 🌍  I'm based in Paraná,Brazil
+* 🌍  I'm based in Paraná, Brazil
 * ✉️  You can contact me at [lucasarr01@outlook.com]()
-* 🧠  I'm learning Advanced Javascript. Java and Python programming language
-* ⚡  I love sports and my favorite is football
+* 🧠  I'm learning Phython and Java programming languages
+* ⚡  I love sports, with football being my favorite
  <!--* 🚀  I'm currently working on ... -->
 
 
@@ -25,16 +23,10 @@ oh, and i'm also a software engineering student and computer engineering
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+ <a href="https://www.iso.org/c.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a>
  
   
   ### knowledge in
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"></a>
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-  
-  
 
-
-### Socials
-
-<p align="left">  
- <a href="https://www.linkedin.com/in/lucas-silva-021a84231/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> </p>
