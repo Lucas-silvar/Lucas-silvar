@@ -5,7 +5,7 @@
  Developer & Engineering Student
 -----------------------------
 
-I'm 23 years old and I'm a student of Software Engineering and Computer Engineering at the Federal Technological University of Paraná. My journey into programming began at the age of 19, igniting a passion for coding, problem-solving, and leveraging technology for innovative solutions. With a primary focus on software development, I strive to create applications that make a meaningful impact
+I'm 24 years old and I'm a student of Software Engineering and Computer Engineering at the Federal Technological University of Paraná. My journey into programming began at the age of 19, igniting a passion for coding, problem-solving, and leveraging technology for innovative solutions. With a primary focus on software development, I strive to create applications that make a meaningful impact
 
 
 * 🌍  I'm based in Paraná, Brazil
