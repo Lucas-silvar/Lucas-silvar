@@ -10,7 +10,7 @@ I'm 24 years old and I'm a student of Software Engineering and Computer Engineer
 
 * 🌍  I'm based in Paraná, Brazil
 * ✉️  You can contact me at [lucasarr01@outlook.com]()
-* 🧠  I'm learning Phython and Java programming languages
+* 🧠  I'm learning Kotlin programming language
 
  <!--* 🚀  I'm currently working on ... -->
 
