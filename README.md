@@ -4,8 +4,9 @@
 
  Developer & Engineering Student
 -----------------------------
+Computer Engineering student at UTFPR – Pato Branco Campus and Software Engineering student at UNINTER. Currently, I work as a volunteer in the Institutional Scientific Initiation Volunteering Program (PIVIC), in the project entitled “Development and validation of software for microplastic quantification and analysis.” I am interested in the areas of software development, computer vision, artificial intelligence, and embedded systems.
 
-I'm 24 years old and I'm a student of Software Engineering and Computer Engineering at the Federal Technological University of Paraná. My journey into programming began at the age of 19, igniting a passion for coding, problem-solving, and leveraging technology for innovative solutions. With a primary focus on software development, I strive to create applications that make a meaningful impact
+
 
 
 * 🌍  I'm based in Paraná, Brazil
